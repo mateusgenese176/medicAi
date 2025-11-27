@@ -1,0 +1,5 @@
+{
+  "name": "MediSolver AI",
+  "description": "Assistente de raciocínio clínico que analisa anamneses, sugere diagnósticos diferenciais, condutas e estratifica o risco de internação.",
+  "requestFramePermissions": []
+}
